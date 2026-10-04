@@ -26,7 +26,7 @@ LINEだけで出欠を記録し保管できるBotです。Google Apps Script単�
 
 ・Gemini API（gemini-2.5-flash、自由文からの情報抽出）
 
-・Google スプレッドシート（データベース代わりに使用）
+・Google スプレッドシート（データベースとして使用）
 
 設計のポイント:
 
